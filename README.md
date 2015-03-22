@@ -1,2 +1,2 @@
 # Crazyflie-
-python clients for hover control and multiple quad control
+python clients for hover control and two way communication

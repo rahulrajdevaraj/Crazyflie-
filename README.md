@@ -1,2 +1,2 @@
 # Crazyflie-
-python clients for hover control and two way communication
+python clients for hover control (for multiple control - read comments) and two way communication
